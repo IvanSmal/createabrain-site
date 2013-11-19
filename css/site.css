@@ -12,12 +12,6 @@ html, body {
   padding: 20px 10px;
   text-align: center;
 }
-.nav {
-  width: 500px;
-  position: relative;
-  left: 50% !important;
-  margin-left: -250px !important;
-}
 .palette {
   text-transform: none !important;
   padding-bottom: 40px;
